@@ -6,9 +6,11 @@
 
 li {
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 32px;
+    margin-bottom: 7px;
 }
 
 span {
-    margin-right: 30px;
+    margin-right: 32px;
+    margin-bottom: 15px;
 }
